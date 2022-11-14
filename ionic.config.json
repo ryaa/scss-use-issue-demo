@@ -1,0 +1,7 @@
+{
+  "name": "ryaa-use-issue-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
